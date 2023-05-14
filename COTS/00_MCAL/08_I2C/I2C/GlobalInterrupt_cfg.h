@@ -1,0 +1,7 @@
+#ifndef GLOBALINTERRUPT_CFG_H
+#define GLOBALINTERRUPT_CFG_H
+
+
+#define GLOBAL_INTERRUPT_PIN 7 
+
+#endif

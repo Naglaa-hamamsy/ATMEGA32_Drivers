@@ -1,0 +1,14 @@
+#ifndef LCD_CFG_H
+#define LCD_CFG_H
+
+#define LCD_DATA_PORT DIO_PORTA
+#define LCD_CONTROL_PORT DIO_PORTB
+#define LCD_RS_PIN DIO_enuPin8
+#define LCD_RW_PIN DIO_enuPin9
+#define LCD_E_PIN DIO_enuPin10
+#define FUNCTION_SET_COMMAND 0x38
+#define ENTRY_MODE_SET 0x06
+#define DISPLAY_CONTOL_COMMAND 0b00001110
+#define DISPLAY_CLEAR 0x01
+
+#endif

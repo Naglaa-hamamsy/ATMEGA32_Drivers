@@ -1,0 +1,6 @@
+#ifndef ULTRASONIC_CFG_H
+#define ULTRASONIC_CFG_H
+
+#define ULTRASONIC_TRIGGER_PIN DIO_enuPin12
+
+#endif
